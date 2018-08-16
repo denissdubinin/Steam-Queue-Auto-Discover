@@ -12,7 +12,7 @@ There are two ways to use this script:
 
     <img src="screenshots/inspector.png" width="150">
 3. Open `Console`
-4. Insert [script](https://raw.githubusercontent.com/denissdubinin/Steam-Queue-Auto-Discover/master/queue.js) in console and press `Enter`
+4. Insert [script](https://raw.githubusercontent.com/denissdubinin/Steam-Queue-Auto-Discover/master/queue.user.js) in console and press `Enter`
 
 
 ### Using browser extension:
